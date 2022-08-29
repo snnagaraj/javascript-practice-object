@@ -81,3 +81,84 @@ var fan={
     warenty:"1year",
 }
 console.log(fan);
+
+var footwear={
+    brand:"paragon",
+    type:"shoe",
+    size:"12",
+    color:"black",
+    price:"700",
+}
+console.log(footwear);
+
+var bike={
+    brand:"honda",
+    type:"petrol",
+    milage:"45km",
+    model:"active",
+    price:"80000",
+}
+console.log(bike);
+
+var shirt={
+    model:"plain",
+    size:"32",
+    color:"yellow",
+    price:"500",
+}
+console.log(shirt);
+
+var charger={
+    brand:"redmi",
+    type:"c-type",
+    watss:"44",
+    price:"350",
+}
+console.log(charger);
+
+var juice={
+    flavor:"mango",
+    size:"1littre",
+    price:"80",
+}
+console.log(juice);
+
+var clock={
+    type:"wallclock",
+    brand:"sonata",
+    charge:"battery",
+    price:"900",
+}
+console.log(clock);
+
+var tablet={
+    type:"paracetomal",
+    purpose:"fever",
+    grams:"500",
+    price:"20",
+}
+console.log(tablet);
+
+var oil={
+    brand:"sunfloewr",
+    oil:"refind oil",
+    litter:"1",
+    price:"180",
+}
+console.log(oil);
+
+var tools={
+    type:"spanner",
+    size:"12",
+    weight:"40",
+    price:"150",
+}
+console.log(tools);
+
+var camara={
+    brand:"sony",
+    type:"imx",
+    pixcel:"4k-hd",
+    price:"180000",
+}
+console.log(camara);
